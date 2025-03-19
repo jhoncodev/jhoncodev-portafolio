@@ -30,8 +30,8 @@ cd tu-repo
 
 ## 📬 Contacto
 Puedes encontrarme en:
-- [Instagram](https://instagram.com/jhoncodev/)
-- [YouTube](https://youtube.com/JhonCodev/)
+- [Instagram](https://www.instagram.com/jhoncodev/)
+- [YouTube](https://www.youtube.com/@JhonCodev/)
 - [TikTok](https://www.tiktok.com/@jhoncodev/)
 
 ---
