@@ -9,7 +9,7 @@ Mi sitio web incluye:
 - Un diseño simple y funcional.
 
 ## 🌐 Demo
-El sitio está desplegado en GitHub pages y puedes verlo aquí: [🔗 Enlace a la web](https://tu-enlace.vercel.app)
+El sitio está desplegado en GitHub pages y puedes verlo aquí: [🔗 Enlace a la web](https://jhoncodev.github.io/jhoncodev-portafolio/)
 
 ## 🛠 Tecnologías utilizadas
 - HTML5
